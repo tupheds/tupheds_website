@@ -59,7 +59,63 @@
       <description>&lt;p&gt;We&amp;rsquo;re happy to announce a new paper from our research lab. The paper is the first to discover and invesitgate the &amp;ldquo;Double Descent Phenomenon&amp;rdquo; in particle physics data. Check it out! &lt;a
   href=&#34;https://arxiv.org/abs/2509.01397&#34;
     target=&#34;_blank&#34;
-  &gt;https://arxiv.org/abs/2509.01397&lt;/a&gt;&lt;/p&gt;</description>
+  &gt;https://arxiv.org/abs/2509.01397&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Abstract
+    &lt;div id=&#34;abstract&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#abstract&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Recently, the benefit of heavily overparameterized models has been observed in machine learning tasks: models with enough capacity to easily cross the interpolation threshold improve in generalization error compared to the classical bias-variance tradeoff regime. We demonstrate this behavior for the first time in particle physics data and explore when and where ‘double descent’ appears and under which circumstances overparameterization results in a performance gain.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>New Paper: maria goes NIFTy</title>
+      <link>http://localhost:1313/posts/nifty-maria-paper/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/nifty-maria-paper/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re happy to announce a new paper from our research lab. The paper applies the NifTY reconstruction algorithm to new types of telescope data. From our group Jonas Würzinger and Richard Fuchs were involed. The project was a part of our ODSL efforts. Check it out: &lt;a
+  href=&#34;https://arxiv.org/abs/2509.01600&#34;
+    target=&#34;_blank&#34;
+  &gt;https://arxiv.org/abs/2509.01600&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Abstract
+    &lt;div id=&#34;abstract&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#abstract&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;(Sub-)millimetre single-dish telescopes feature faster mapping speeds and access larger spatial scales than their interferometric counterparts. However, atmospheric fluctuations tend to dominate their signals and complicate recovery of the astronomical sky. Here we develop a framework for Gaussian process-based sky reconstruction and separation of the atmospheric emission from the astronomical signal based on Numerical Information Field Theory (\texttt{NIFTy}). To validate this novel approach, we use the \textit{maria} software to generate synthetic time-ordered observational data mimicking the MUSTANG-2 bolometric array. This approach leads to significantly improved sky reconstructions versus traditional methods.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kristian Tchiorny starts PhD</title>
+      <link>http://localhost:1313/posts/kristian-phd-start/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kristian-phd-start/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re happy to share that Kristian Tchiorny is starting a PhD in our group. He will be working on a project funded by the SFB1258 on the AI-driven design optimization of neutrino telescopes. In particularm, we will be developing strategies to optimize the planned P-ONE neutrino telescope. The work will be closely coordinated with Elisa Resconi&amp;rsquo;s group.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Richard Hildebrandt starts PhD</title>
+      <link>http://localhost:1313/posts/richard-phd-start/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/richard-phd-start/</guid>
+      <description>&lt;p&gt;After completing his Master Thesis on parton density functions, Richard Hildebrandt is joining our group to pursue his doctral degree. He will work on foundation models in partilce physics.&lt;/p&gt;</description>
       
     </item>
     

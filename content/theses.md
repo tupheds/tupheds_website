@@ -17,4 +17,4 @@ Our group is always looking for students that are excited about our research pro
 
 ## External Thesis Supervision
 
-As our group specialized in methods research we 
+As our group specialized in methods research we sometimes also act as formal supervisors to data science-related thesis that are carried out in collaboration with other research organizations or industry. If you're thinking about such an external thesis, please get in touch explaining your data-science related topic.

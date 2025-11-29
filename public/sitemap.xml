@@ -23,12 +23,24 @@
     <lastmod>2025-11-29T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/nifty-maria-paper/</loc>
+    <lastmod>2025-11-29T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-11-29T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-29T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/kristian-phd-start/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/richard-phd-start/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/group/</loc>
