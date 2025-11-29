@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Data Science in Physics Lab</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Data Science in Physics Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Nov 2025 11:37:27 +0100</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BMFTR Funding for Foundation Models for Physics</title>
+      <link>https://example.org/posts/bmftr_funding/</link>
+      <pubDate>Sat, 29 Nov 2025 11:37:27 +0100</pubDate>
+      <guid>https://example.org/posts/bmftr_funding/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re happy to announce that the BMFTR is funding a new Germany-wide effort “SciFM” to develop foundation models in astro- and particle physics. Our group will be part of the Munich hub together with the group of Daniel Grün at the LMU.&lt;/p&gt;&#xA;&lt;h3 id=&#34;scifm-big-models-for-big-science&#34;&gt;SciFM: Big Models for Big Science&lt;/h3&gt;&#xA;&lt;p&gt;A major unsolved problem in Fundamental Physics is that even the best theories in physics - the Standard Models of Cosmology and Particle Physics - only explain a fraction of the Universe: 95% of the energy in the Universe appears to be either “dark matter” or “dark energy”. What are they exactly? Currently physicists can only speculate what the laws of nature look like that explain these phenomena.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
