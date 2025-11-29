@@ -51,3 +51,4 @@
 [[main]]
   name = "Teaching"
   weight = 20
+  pageRef = "teaching"
