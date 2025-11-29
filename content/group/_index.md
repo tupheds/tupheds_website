@@ -48,6 +48,7 @@ Our group brings together physicists and computer scientists and over the years 
 
 ### Postdocs
 * Vangelis Kourlitis
+* Jakob Knollmüller
 
 ### Master Students
 
