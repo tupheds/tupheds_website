@@ -1,0 +1,53 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "Join Us"
+  weight = 10
+
+[[main]]
+  name = "Jobs"
+  parent = "Join Us"
+  pageRef = "jobs"
+  weight = 20
+
+[[main]]
+  name = "MSc / BSc Thesis"
+  parent = "Join Us"
+  pageRef = "theses"
+  weight = 20
+
+[[main]]
+  name = "Project Students"
+  parent = "Join Us"
+  pageRef = "projectstudents"
+  weight = 20
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Group"
+  weight = 20
+  pageRef = "group"
+
+[[main]]
+  name = "Research"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  parent = "Research"
+  pageRef = "publications"
+  weight = 20
+
+[[main]]
+  name = "Software"
+  parent = "Research"
+  pageRef = "Software"
+  weight = 20
+
+[[main]]
+  name = "Teaching"
+  weight = 20

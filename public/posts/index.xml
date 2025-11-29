@@ -2,18 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Data Science in Physics Lab</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Data Science in Physics Lab</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2025 11:37:27 +0100</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>BMFTR Funding for Foundation Models for Physics</title>
-      <link>https://example.org/posts/bmftr_funding/</link>
-      <pubDate>Sat, 29 Nov 2025 11:37:27 +0100</pubDate>
-      <guid>https://example.org/posts/bmftr_funding/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;re happy to announce that the BMFTR is funding a new Germany-wide effort “SciFM” to develop foundation models in astro- and particle physics. Our group will be part of the Munich hub together with the group of Daniel Grün at the LMU.&lt;/p&gt;&#xA;&lt;h3 id=&#34;scifm-big-models-for-big-science&#34;&gt;SciFM: Big Models for Big Science&lt;/h3&gt;&#xA;&lt;p&gt;A major unsolved problem in Fundamental Physics is that even the best theories in physics - the Standard Models of Cosmology and Particle Physics - only explain a fraction of the Universe: 95% of the energy in the Universe appears to be either “dark matter” or “dark energy”. What are they exactly? Currently physicists can only speculate what the laws of nature look like that explain these phenomena.&lt;/p&gt;</description>
+      <title>BMFTR Funds DEMOS</title>
+      <link>http://localhost:1313/posts/bmftr-demos/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/bmftr-demos/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re happy to announce that the BMFTR has funded the DEMOS project as part of the ErUM-Data Call. The overall project is coordinated by Prof. Mikhail Mikhasenko at the University of Bochum. We will contribute jointly with Philipp Eller from Elisa Resconi&amp;rsquo;s research group.&lt;/p&gt;</description>
+      
     </item>
+    
+    <item>
+      <title>BMFTR Funds SciFM</title>
+      <link>http://localhost:1313/posts/bmftr-scifm/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/bmftr-scifm/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re happy to announce that the BMFTR is funding a new Germany-wide effort “SciFM” to develop foundation models in astro- and particle physics. Our group will be part of the Munich hub together with the group of Daniel Grün at the LMU.&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;SciFM: Big Models for Big Science
+    &lt;div id=&#34;scifm-big-models-for-big-science&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#scifm-big-models-for-big-science&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;p&gt;A major unsolved problem in Fundamental Physics is that even the best theories in physics - the Standard Models of Cosmology and Particle Physics - only explain a fraction of the Universe: 95% of the energy in the Universe appears to be either “dark matter” or “dark energy”. What are they exactly? Currently physicists can only speculate what the laws of nature look like that explain these phenomena.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lukas Heinrich awarded ERC Starting Grant</title>
+      <link>http://localhost:1313/posts/erc-stg-lukas-heinrich/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/erc-stg-lukas-heinrich/</guid>
+      <description>&lt;p&gt;Big grant news today! I feel very lucky and honored for this opportunity from European Research Council (ERC) We will attempt to go for a big qualitative step up in how we use AI/ML to predict how particles interact with matter. Stoked to get started on this in 2026. we will release job advertisements soon!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>New Paper: Double Descent in Particle Physics Data</title>
+      <link>http://localhost:1313/posts/double-descent-paper/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/double-descent-paper/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re happy to announce a new paper from our research lab. The paper is the first to discover and invesitgate the &amp;ldquo;Double Descent Phenomenon&amp;rdquo; in particle physics data. Check it out! &lt;a
+  href=&#34;https://arxiv.org/abs/2509.01397&#34;
+    target=&#34;_blank&#34;
+  &gt;https://arxiv.org/abs/2509.01397&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

@@ -1,8 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Data Science in Physics Lab'
-theme = 'ananke'
+theme = 'blowfish'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
