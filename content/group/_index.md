@@ -46,6 +46,9 @@ Our group brings together physicists and computer scientists and over the years 
 
 ## Alumni
 
+### Postdocs
+* Vangelis Kourlitis
+
 ### Master Students
 
 * Max Hofhacker
