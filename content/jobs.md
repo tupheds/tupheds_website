@@ -13,10 +13,10 @@ We are always interested in taking on students for Master and Bachelor thesis pr
 ## Current Openings
 
 
-* Postdoc Position in ERC LEGO Project
-* PD Position in SciFM
-* PhD Position in SciFM
-* Postdoc Position in DEMOS Project
+* Postdoc Position in ERC LEGO Project [INSPIRE Link](https://inspirehep.net/jobs/3075448)
+* PD Position in SciFM [Inspire Link](https://inspirehep.net/jobs/3084302)
+* PhD Position in SciFM [Inspire Link](https://inspirehep.net/jobs/3084302)
+* Postdoc Position in DEMOS Project (Link coming soon!)
 
 ## Past Openings
 
