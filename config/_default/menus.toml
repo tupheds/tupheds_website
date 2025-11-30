@@ -1,8 +1,5 @@
 # config/_default/menus.toml
 
-[[main]]
-  name = "Join Us"
-  weight = 10
 
 [[main]]
   name = "Jobs"
@@ -52,3 +49,15 @@
   name = "Teaching"
   weight = 20
   pageRef = "teaching"
+
+
+[[main]]
+  name = "Join Us"
+  weight = 35
+
+[[main]]
+  name = "Contact"
+  weight = 40
+  pageRef = "contact"
+
+#https://github.com/tupheds/tupheds_website
