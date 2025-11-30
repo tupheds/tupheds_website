@@ -7,24 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NeurIPS ML4PS Workshop</title>
+      <link>http://localhost:1313/posts/2025-12-01-neurips_ml4ps/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025-12-01-neurips_ml4ps/</guid>
+      <description>&lt;p&gt;A number of people from our group will be attending the NeurIPS Workshop on Machine Learning for Natural Sciences. Nicole Hartman is part of the organizing team and Matthias Vigl will present his double descent work during the workshop. If you&amp;rsquo;re arround don&amp;rsquo;t hesistate to get in touch!&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>BMFTR Funds DEMOS</title>
-      <link>http://localhost:1313/posts/bmftr_demos/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/posts/2025-11-15-bmftr_demos/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/bmftr_demos/</guid>
+      <guid>http://localhost:1313/posts/2025-11-15-bmftr_demos/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re happy to announce that the BMFTR has funded the DEMOS project as part of the ErUM-Data Call. The overall project is coordinated by Prof. Mikhail Mikhasenko at the University of Bochum. We will contribute jointly with Philipp Eller from Elisa Resconi&amp;rsquo;s research group.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>BMFTR Funds SciFM</title>
-      <link>http://localhost:1313/posts/bmftr_scifm/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/posts/2025-11-15-bmftr_scifm/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/bmftr_scifm/</guid>
+      <guid>http://localhost:1313/posts/2025-11-15-bmftr_scifm/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re happy to announce that the BMFTR is funding a new Germany-wide effort “SciFM” to develop foundation models in astro- and particle physics. Our group will be part of the Munich hub together with the group of Daniel Grün at the LMU.&lt;/p&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;SciFM: Big Models for Big Science
@@ -42,30 +52,20 @@
     
     <item>
       <title>Lukas Heinrich awarded ERC Starting Grant</title>
-      <link>http://localhost:1313/posts/erc_announcement/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/posts/2025-09-01-erc_announcement/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/erc_announcement/</guid>
+      <guid>http://localhost:1313/posts/2025-09-01-erc_announcement/</guid>
       <description>&lt;p&gt;Big grant news today! I feel very lucky and honored for this opportunity from European Research Council (ERC) We will attempt to go for a big qualitative step up in how we use AI/ML to predict how particles interact with matter. Stoked to get started on this in 2026. we will release job advertisements soon!&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>NeurIPS ML4PS Workshop</title>
-      <link>http://localhost:1313/posts/neurips_ml4ps/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/neurips_ml4ps/</guid>
-      <description>&lt;p&gt;A number of people from our group will be attending the NeurIPS Workshop on Machine Learning for Natural Sciences. Nicole Hartman is part of the organizing team and Matthias Vigl will present his double descent work during the workshop. If you&amp;rsquo;re arround don&amp;rsquo;t hesistate to get in touch!&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>New Paper: Double Descent in Particle Physics Data</title>
-      <link>http://localhost:1313/posts/double_descent_paper/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/posts/2025-09-01-double_descent_paper/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/double_descent_paper/</guid>
+      <guid>http://localhost:1313/posts/2025-09-01-double_descent_paper/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re happy to announce a new paper from our research lab. The paper is the first to discover and invesitgate the &amp;ldquo;Double Descent Phenomenon&amp;rdquo; in particle physics data. Check it out! &lt;a
   href=&#34;https://arxiv.org/abs/2509.01397&#34;
     target=&#34;_blank&#34;
@@ -87,10 +87,10 @@
     
     <item>
       <title>New Paper: maria goes NIFTy</title>
-      <link>http://localhost:1313/posts/nifty_paper/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/posts/2025-07-01-nifty_paper/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/nifty_paper/</guid>
+      <guid>http://localhost:1313/posts/2025-07-01-nifty_paper/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re happy to announce a new paper from our research lab. The paper applies the NifTY reconstruction algorithm to new types of telescope data. From our group Jonas Würzinger and Richard Fuchs were involed. The project was a part of our ODSL efforts. Check it out: &lt;a
   href=&#34;https://arxiv.org/abs/2509.01600&#34;
     target=&#34;_blank&#34;
@@ -111,30 +111,30 @@
     
     <item>
       <title>Kristian Tchiorny starts PhD</title>
-      <link>http://localhost:1313/posts/kristian_start_phd/</link>
+      <link>http://localhost:1313/posts/2025-05-01-kristian_start_phd/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/kristian_start_phd/</guid>
+      <guid>http://localhost:1313/posts/2025-05-01-kristian_start_phd/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re happy to share that Kristian Tchiorny is starting a PhD in our group. He will be working on a project funded by the SFB1258 on the AI-driven design optimization of neutrino telescopes. In particularm, we will be developing strategies to optimize the planned P-ONE neutrino telescope. The work will be closely coordinated with Elisa Resconi&amp;rsquo;s group.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Richard Hildebrandt starts PhD</title>
-      <link>http://localhost:1313/posts/richard_start_phd/</link>
+      <link>http://localhost:1313/posts/2025-05-01-richard_start_phd/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/richard_start_phd/</guid>
+      <guid>http://localhost:1313/posts/2025-05-01-richard_start_phd/</guid>
       <description>&lt;p&gt;After completing his Master Thesis on parton density functions, Richard Hildebrandt is joining our group to pursue his doctral degree. He will work on foundation models in partilce physics.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Excellence Cluster ORIGINS approved for a second funding period</title>
-      <link>http://localhost:1313/posts/origins_approved/</link>
+      <link>http://localhost:1313/posts/2025-01-01-origins_approved/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/origins_approved/</guid>
+      <guid>http://localhost:1313/posts/2025-01-01-origins_approved/</guid>
       <description>&lt;p&gt;The Excellence Cluster ORIGINS was approved for a second funding period! This is close to our heart, as our research group and the ORIGINS Data Science Lab is a direct outcome of the first funding period. We&amp;rsquo;re now expanding the ODSL with a second co-coordinator (Daniel Grün) and an expanded team of researchers. Keep an eye out for job postings!&lt;/p&gt;
 &lt;p&gt;Check it out: &lt;a
   href=&#34;https://www.origins-cluster.de&#34;
@@ -145,10 +145,10 @@
     
     <item>
       <title>SFB 1258 approved for third funding period</title>
-      <link>http://localhost:1313/posts/sfb_approved/</link>
+      <link>http://localhost:1313/posts/2025-01-01-sfb_approved/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/sfb_approved/</guid>
+      <guid>http://localhost:1313/posts/2025-01-01-sfb_approved/</guid>
       <description>&lt;p&gt;Great news! The Collaborative Research Center (Sonderforschungsbereich) SFB1258 was approved for a third funding period. Out group is involved in three exciting projects in collaboration with Andreas Weiler and Uli Haisch, Elisa Resconi and Laura Fabbietti.&lt;/p&gt;
 &lt;p&gt;Check it out: &lt;a
   href=&#34;https://www.sfb1258.de&#34;
