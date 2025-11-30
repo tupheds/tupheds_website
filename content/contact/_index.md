@@ -15,7 +15,7 @@ Our offices are currently located on the IPP Campus in Garching near Munich. Our
 
 ```
 Prof. Dr. Lukas Heinrich
-TUM Data Science in PHysics
+TUM Data Science in Physics
 Boltzmannstraße 2
 85748 Garching
 ```

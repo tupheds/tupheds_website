@@ -6,9 +6,17 @@ Our group ia passionate about developing open dsource software. You can find a f
 
 ## `pyhf`
 
+{{< github repo="scikit-hep/pyhf" showThumbnail=true >}}
+
 ## `pylhe`
+
+{{< github repo="scikit-hep/pylhe" showThumbnail=true >}}
 
 ## `yadage`, `adage` and `packtivity`
 
-## `madjax`
+{{< github repo="yadage/yadage" showThumbnail=true >}}
 
+
+## REANA
+
+{{< github repo="reanahub/reana" showThumbnail=true >}}
