@@ -1,8 +1,6 @@
 ---
 title: "NeurIPS ML4PS Workshop"
 date: 2025-11-29
-draft: false
-slug: "neurips"
 tags: ["news"]
 ---
 

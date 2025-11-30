@@ -1,13 +1,9 @@
 ---
 title: "New Paper: maria goes NIFTy"
 date: 2025-11-29
-draft: false
-slug: "nifty-maria-paper"
 tags: ["news"]
-showAuthor: true
 authors:
   - "lukas"
-showAuthorsBadges : false 
 ---
 
 We're happy to announce a new paper from our research lab. The paper applies the NifTY reconstruction algorithm to new types of telescope data. From our group Jonas Würzinger and Richard Fuchs were involed. The project was a part of our ODSL efforts. Check it out: https://arxiv.org/abs/2509.01600

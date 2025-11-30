@@ -1,13 +1,9 @@
 ---
 title: "BMFTR Funds SciFM"
 date: 2025-11-29
-draft: false
-slug: "bmftr-scifm"
 tags: ["news"]
-showAuthor: true
 authors:
   - "lukas"
-showAuthorsBadges : false 
 ---
 
 We're happy to announce that the BMFTR is funding a new Germany-wide effort “SciFM” to develop foundation models in astro- and particle physics. Our group will be part of the Munich hub together with the group of Daniel Grün at the LMU.
