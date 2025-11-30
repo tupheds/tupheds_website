@@ -20,3 +20,4 @@
   homepageImage = "img/atlas.jpg" # used in: hero, and card
   showRecent = true
   cardView = true
+  showRecentItems = 9
