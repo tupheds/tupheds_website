@@ -60,4 +60,9 @@
   weight = 40
   pageRef = "contact"
 
-#https://github.com/tupheds/tupheds_website
+
+[[main]]
+  pre = "github"
+  name = "GitHub"
+  url = "https://github.com/tupheds/tupheds_website"
+  weight = 99
