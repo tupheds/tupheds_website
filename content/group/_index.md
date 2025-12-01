@@ -7,7 +7,7 @@ Our group brings together physicists and computer scientists and over the years 
 
 ## Permanent Staff
 
-* Lukas Heinrich - Lab Lead
+* [Lukas Heinrich - Lab Lead]({{< relref "/authors/lukas" >}})
 * Petra Regenscheit - Team Assistant
 
 ## Postdocs
