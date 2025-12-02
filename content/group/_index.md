@@ -116,13 +116,6 @@ Our group brings together physicists and computer scientists and over the years 
   {{< /member >}}
 
   {{< member
-        name="Johanna Reinprecht"
-        role="Master Student"
-        avatar="img/no_avatar.jpg"
-  >}}
-  {{< /member >}}
-
-  {{< member
         name="Nikola Boskov"
         role="Master Student"
         avatar="img/no_avatar.jpg"
@@ -172,6 +165,13 @@ Our group brings together physicists and computer scientists and over the years 
 ## Project Students
 
 {{< members-grid >}}
+  {{< member
+    name="Johanna Reinprecht"
+    role="Project Student"
+    avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
   {{< member
         name="Nehir Şen"
         role="Project Student"
