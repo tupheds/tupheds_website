@@ -21,7 +21,7 @@ Our group brings together physicists and computer scientists and over the years 
       {{< member
                   name="Petra Regenscheit"
                   role="Team Assistant"
-                  avatar="img/no_avatar.jpg"
+                  avatar="img/petra.jpg"
                   email="petra.regenscheit@tum.de"
       >}}
       {{< /member >}}
