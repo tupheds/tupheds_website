@@ -132,7 +132,10 @@ Our group brings together physicists and computer scientists and over the years 
   {{< member
         name="Jonathan Renusch"
         role="Master Student"
-        avatar="img/no_avatar.jpg"
+        avatar="img/jonathanrenusch.jpg"
+        email="jonathan.renusch@cern.ch"
+        orcid="0009-0009-0561-577X"
+        github="jonathanrenusch"
   >}}
   {{< /member >}}
 
