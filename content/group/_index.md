@@ -5,6 +5,17 @@ description: Group Overview Page
 
 Our group brings together physicists and computer scientists and over the years we have supervised many students at all levels for thesis work. Check out our current group members and our almunis below!
 
+## Group Pictures
+
+
+**2025**
+{{< figure
+    src="img/group_2025.jpg"
+    alt="Group photo 2025"
+    title="Group photo 2025 · Photo: David Paneque"
+>}}
+
+
 ## Permanent Staff
 
 {{< members-grid >}}
