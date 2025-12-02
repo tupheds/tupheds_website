@@ -7,43 +7,192 @@ Our group brings together physicists and computer scientists and over the years 
 
 ## Permanent Staff
 
-* [Lukas Heinrich - Lab Lead]({{< relref "/authors/lukas" >}})
-* Petra Regenscheit - Team Assistant
+{{< members-grid >}}
+      {{< member
+                  name="Lukas Heinrich"
+                  role="Lab Lead"
+                  avatar="img/lukas.jpg"
+                  email="lukas.heinrich@tum.de"
+                  orcid="0000-0002-4048-7584"
+                  github="lukasheinrich"
+      >}}
+      {{< /member >}}
+
+      {{< member
+                  name="Petra Regenscheit"
+                  role="Team Assistant"
+                  avatar="img/no_avatar.jpg"
+                  email="petra.regenscheit@tum.de"
+      >}}
+      {{< /member >}}
+{{< /members-grid >}}
 
 ## Postdocs
 
-* Nicole Hartman
-* Jonas Würzinger
-* Baran Hashemi
+{{< members-grid >}}
+  {{< member
+        name="Nicole Hartman"
+        role="Postdoc"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Jonas Würzinger"
+        role="Postdoc"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Baran Hashemi"
+        role="Postdoc"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+{{< /members-grid >}}
 
 ## PhD Students
 
-* Malin Horstmann
-* Matthias Vigl
-* Richard Hildebrandt
-* Richard Fuchs
-* Kristian Tchiorny
-* Vitus Past (incoming)
-* Francesco Grosso (incoming)
+{{< members-grid >}}
+  {{< member
+        name="Malin Horstmann"
+        role="PhD Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Matthias Vigl"
+        role="PhD Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Richard Hildebrandt"
+        role="PhD Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Richard Fuchs"
+        role="PhD Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Kristian Tchiorny"
+        role="PhD Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Vitus Past"
+        role="Incoming PhD Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Francesco Grosso"
+        role="Incoming PhD Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+{{< /members-grid >}}
 
 ## Master Students
-* Alex Boger
-* Johanna Reinprecht
-* Nikola Boskov
-* Elli Jobst
-* Jonathan Renusch
-* Dominik Voß
-* Manuel Bünsdorf
+
+{{< members-grid >}}
+  {{< member
+        name="Alex Boger"
+        role="Master Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Johanna Reinprecht"
+        role="Master Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Nikola Boskov"
+        role="Master Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Elli Jobst"
+        role="Master Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Jonathan Renusch"
+        role="Master Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Dominik Voß"
+        role="Master Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Manuel Bünsdorf"
+        role="Master Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+{{< /members-grid >}}
 
 ## Bachelor Students
 
-* Thierry Meyer
+{{< members-grid >}}
+      {{< member
+                  name="Thierry Meyer"
+                  role="Bachelor Student"
+                  avatar="img/no_avatar.jpg"
+      >}}
+      {{< /member >}}
+{{< /members-grid >}}
 
 ## Project Students
 
-* Nehir Şen
-* Manuel Bünsdorf
-* Aileen Cheng
+{{< members-grid >}}
+  {{< member
+        name="Nehir Şen"
+        role="Project Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Manuel Bünsdorf"
+        role="Project Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
+  {{< member
+        name="Aileen Cheng"
+        role="Project Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+{{< /members-grid >}}
 
 ## Alumni
 

@@ -1,0 +1,108 @@
+{{/*
+	member shortcode (compact, stacked layout)
+
+	Usage (avatar uses Hugo assets/ pipeline):
+
+	{{< member
+			name="Lukas Heinrich"
+			role="Lab Lead"
+			avatar="img/lukas.jpg"  // file at assets/img/lukas.jpg
+			url="/authors/lukas/"
+			email="lukas.heinrich@tum.de"
+			orcid="0000-0002-1234-5678"
+			github="lukasheinrich"
+	>}}
+Short description or bio can go here.
+{{< /member >}}
+
+	Notes:
+	- name is required.
+	- avatar is an optional asset path under assets/ (no leading slash).
+	- url, email, orcid, github are optional.
+*/}}
+
+{{ $name := .Get "name" }}
+{{ if not $name }}
+	{{ errorf "member shortcode: 'name' parameter is required in %s" .Position }}
+{{ end }}
+
+{{ $role := .Get "role" }}
+{{ $avatar := .Get "avatar" }}
+{{ $url := .Get "url" }}
+{{ $email := .Get "email" }}
+{{ $orcid := .Get "orcid" }}
+{{ $github := .Get "github" }}
+
+<div class="member-card my-2">
+	<article class="flex flex-col items-center text-center">
+		{{ with $avatar }}
+			{{ $img := resources.Get . }}
+			{{ with $img }}
+				{{ $thumb := .Resize "400x" }}
+				<div
+					class="member-card__avatar shrink-0 rounded-full overflow-hidden border border-neutral-300/70 dark:border-neutral-700/80"
+					style="width: 80px; height: 80px; display: inline-block; line-height: 0;"
+				>
+					<img
+						src="{{ $thumb.RelPermalink }}"
+						alt="Avatar of {{ $name }}"
+						style="width: 100%; height: 100%; object-fit: cover; display: block; margin: 0; padding: 0; border: 0;"
+						loading="lazy"
+					>
+				</div>
+			{{ end }}
+		{{ end }}
+
+		<div class="member-card__body flex-1 text-neutral-800 dark:text-neutral-200" style="margin-top: 0.25rem;">
+			<header class="flex flex-col items-center" style="margin: 0; gap: 0.15rem;">
+				<h3 class="m-0 text-[0.95rem] font-semibold leading-tight text-neutral-900 dark:text-neutral" style="margin: 0;">
+					{{ if $url }}
+						<a href="{{ $url | relURL }}" class="hover:underline decoration-primary-500">
+							{{ $name }}
+						</a>
+					{{ else }}
+						{{ $name }}
+					{{ end }}
+				</h3>
+				{{ if $role }}
+					<p class="m-0 text-[0.7rem] leading-snug text-neutral-600 dark:text-neutral-400" style="margin: 0;">
+						{{ $role }}
+					</p>
+				{{ end }}
+			</header>
+
+			{{ with .Inner }}
+				<div
+					class="member-card__description prose prose-sm dark:prose-invert max-w-none mx-auto"
+					style="margin-top: 0.25rem; margin-bottom: 0.25rem;"
+				>
+					{{ . | markdownify }}
+				</div>
+			{{ end }}
+
+			{{ if or $email (or $orcid $github) }}
+				<div
+					class="member-card__meta flex flex-wrap justify-center items-center text-[0.7rem] text-neutral-700 dark:text-neutral-300"
+					style="gap: 0.3rem; margin-top: 0.15rem;"
+				>
+					{{ if $email }}
+						<a href="mailto:{{ $email }}" class="hover:underline">Email</a>
+					{{ end }}
+					{{ if and $email (or $orcid $github) }}
+						<span class="text-neutral-400">·</span>
+					{{ end }}
+					{{ if $orcid }}
+						<a href="https://orcid.org/{{ $orcid }}" class="hover:underline" target="_blank" rel="noopener">ORCID</a>
+					{{ end }}
+					{{ if and $orcid $github }}
+						<span class="text-neutral-400">·</span>
+					{{ end }}
+					{{ if $github }}
+						<a href="https://github.com/{{ $github }}" class="hover:underline" target="_blank" rel="noopener">GitHub</a>
+					{{ end }}
+				</div>
+			{{ end }}
+		</div>
+	</article>
+</div>
+
