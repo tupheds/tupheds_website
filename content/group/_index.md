@@ -166,6 +166,7 @@ Our group brings together physicists and computer scientists and over the years 
                   name="Thierry Meyer"
                   role="Bachelor Student"
                   avatar="img/no_avatar.jpg"
+                  github="thierry-meyer"
       >}}
       {{< /member >}}
 {{< /members-grid >}}
@@ -191,6 +192,8 @@ Our group brings together physicists and computer scientists and over the years 
         name="Manuel Bünsdorf"
         role="Project Student"
         avatar="img/no_avatar.jpg"
+        avatar="https://github.com/Lusori0.png"
+        github="Lusori0"
   >}}
   {{< /member >}}
 
