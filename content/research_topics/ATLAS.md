@@ -5,7 +5,7 @@ showHero: true
 featureimage: img/atlas.jpg
 ---
 
-One of our main pillars is research in experimental high-energy particle physics as part of the [ATLAS Collaboration](https://en.wikipedia.org/wiki/ATLAS_experiment) at the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider)
+Our group has a long-standing interest in experimental high-energy particle physics research as part of the [ATLAS Collaboration](https://en.wikipedia.org/wiki/ATLAS_experiment) at the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider)
 
 ### Higgs Physics
 
