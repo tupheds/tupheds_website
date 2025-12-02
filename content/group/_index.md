@@ -42,6 +42,7 @@ Our group brings together physicists and computer scientists and over the years 
         name="Jonas Würzinger"
         role="Postdoc"
         avatar="img/jonas.jpg"
+        github="jwuerzinger"
   >}}
   {{< /member >}}
 
@@ -49,6 +50,9 @@ Our group brings together physicists and computer scientists and over the years 
         name="Baran Hashemi"
         role="Postdoc"
         avatar="img/no_avatar.jpg"
+        avatar="https://github.com/Baran-phys.png"
+        github="Baran-phys"
+
   >}}
   {{< /member >}}
 {{< /members-grid >}}
@@ -92,6 +96,8 @@ Our group brings together physicists and computer scientists and over the years 
         name="Kristian Tchiorny"
         role="PhD Student"
         avatar="img/no_avatar.jpg"
+        avatar="https://github.com/kristiantcho.png"
+        github="kristiantcho"
   >}}
   {{< /member >}}
 
