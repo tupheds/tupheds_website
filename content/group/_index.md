@@ -181,7 +181,7 @@ Our group brings together physicists and computer scientists and over the years 
   {{< /member >}}
 
   {{< member
-        name="Aileen Cheng"
+        name="Aileen Chen"
         role="Project Student"
         avatar="img/no_avatar.jpg"
   >}}
