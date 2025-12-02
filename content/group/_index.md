@@ -33,7 +33,8 @@ Our group brings together physicists and computer scientists and over the years 
   {{< member
         name="Nicole Hartman"
         role="Postdoc"
-        avatar="img/no_avatar.jpg"
+        avatar="https://github.com/nhartman94.png"
+        github="nhartman94"
   >}}
   {{< /member >}}
 
@@ -59,20 +60,24 @@ Our group brings together physicists and computer scientists and over the years 
         name="Malin Horstmann"
         role="PhD Student"
         avatar="img/no_avatar.jpg"
+        avatar="https://github.com/malin-horstmann.png"
+        github="malin-horstmann"
   >}}
   {{< /member >}}
 
   {{< member
         name="Matthias Vigl"
         role="PhD Student"
-        avatar="img/no_avatar.jpg"
+        avatar="https://github.com/mvigl.png"
+        github="mvigl"
   >}}
   {{< /member >}}
 
   {{< member
         name="Richard Hildebrandt"
         role="PhD Student"
-        avatar="img/no_avatar.jpg"
+        avatar="https://github.com/rdebrand.png"
+        github="rdebrand"
   >}}
   {{< /member >}}
 
