@@ -40,7 +40,7 @@ Our group brings together physicists and computer scientists and over the years 
   {{< member
         name="Jonas Würzinger"
         role="Postdoc"
-        avatar="img/no_avatar.jpg"
+        avatar="img/jonas.jpg"
   >}}
   {{< /member >}}
 
