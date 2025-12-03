@@ -2,8 +2,18 @@ The science we do in our group touches on questions that scientists and non-scie
 
 ## Wissenschaft für Jedermann (German)
 
+Lukas Heinrich: Wie KI die Quantenwelt entschlüsselt
+
+
 {{< youtubeLite id="kMWM87H6TGM" label="Lukas Heinrich's talk at Wissenschaft für Jedermann" >}}
 
 ## Exzellent erklärt (German)
 
-<iframe src="https://exzellent-erklaert.podigee.io/49-das-universum-im-labor/embed?context=website" style="border: 0" border="0" height="400" width="100%"></iframe>
+<iframe src="https://exzellent-erklaert.podigee.io/49-das-universum-im-labor/embed?context=website" style="border: 0" border="0" height="250" width="100%"></iframe>
+
+## WOMAD 2020
+
+Lukas Heinrich - How Physics is Helping with COVID-19 Research - 'WOMAD at Home' July 2020
+
+{{< youtubeLite id="S98geq3VMNo" label="Lukas Heinrich's talk at WOMAD 2020" >}}
+
