@@ -46,6 +46,11 @@
   weight = 20
 
 [[main]]
+  name = "Outreach"
+  pageRef = "Outreach"
+  weight = 70
+
+[[main]]
   name = "ATLAS"
   parent = "Research"
   pageRef = "ATLAS"
@@ -70,7 +75,7 @@
 
 [[main]]
   name = "Contact"
-  weight = 40
+  weight = 80
   pageRef = "contact"
 
 
