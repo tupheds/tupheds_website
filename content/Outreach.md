@@ -12,10 +12,23 @@ Lukas Heinrich: Wie KI die Quantenwelt entschlüsselt
 
 ## Exzellent erklärt (German)
 
+Philipp Eller and Lukas Heinrich
+
 <iframe src="https://exzellent-erklaert.podigee.io/49-das-universum-im-labor/embed?context=website" style="border: 0" border="0" height="275" width="100%"></iframe>
 
+## Café und Kosmos 
+
+Jonas Würzinger
+
+{{< figure
+    src="img/cafekosmos_jonas.jpg"
+    alt="Jonas Würzinger Poster for Café und Kosmos"
+    title="Jonas Würzinger Poster for Café und Kosmos"
+>}}
 
 ## Maus Open Days
+
+Jonas Würzinger
 
 {{< figure
     src="img/jonas_outreach.jpg"
