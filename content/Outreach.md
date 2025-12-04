@@ -14,6 +14,15 @@ Lukas Heinrich: Wie KI die Quantenwelt entschlüsselt
 
 <iframe src="https://exzellent-erklaert.podigee.io/49-das-universum-im-labor/embed?context=website" style="border: 0" border="0" height="275" width="100%"></iframe>
 
+
+## Maus Open Days
+
+{{< figure
+    src="img/jonas_outreach.jpg"
+    alt="Jonas Würzinger participating in the Maus Open Days"
+    title="Jonas Würzinger participating in the Maus Open Days"
+>}}
+
 ## WOMAD 2020
 
 Lukas Heinrich - How Physics is Helping with COVID-19 Research - 'WOMAD at Home' July 2020
