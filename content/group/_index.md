@@ -168,6 +168,13 @@ Our group brings together physicists and computer scientists and over the years 
   >}}
   {{< /member >}}
 
+  {{< member
+        name="Niklas Meier"
+        role="Master Student"
+        avatar="img/no_avatar.jpg"
+  >}}
+  {{< /member >}}
+
 {{< /members-grid >}}
 
 ## Bachelor Students
