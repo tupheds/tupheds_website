@@ -1,4 +1,4 @@
-baseURL = 'https://tupheds.github.io/tupheds_website/'
+baseURL = "/"                                                                                                                                                                                                       
 languageCode = 'en-us'
 title = 'Data Science in Physics Lab'
 theme = 'blowfish'
