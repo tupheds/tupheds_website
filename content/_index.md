@@ -7,4 +7,4 @@ cascade:
     showDate: false
 ---
 
-## Understanding Nature with Data and Algorithms
+## Decoding Nature with Data and Algorithms
