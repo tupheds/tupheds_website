@@ -195,7 +195,7 @@ Our group brings together physicists and computer scientists and over the years 
   {{< member
     name="Johanna Reinprecht"
     role="Project Student"
-    avatar="img/no_avatar.jpg"
+    avatar="https://github.com/johannaschnee.png"
   >}}
   {{< /member >}}
 
