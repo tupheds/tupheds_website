@@ -1,6 +1,6 @@
 ---
 title: "Vitus Paß defends his Master's Thesis"
-date: 2025-12-13
+date: 2026-01-13
 tags: ["news"]
 authors:
   - "lukas"
