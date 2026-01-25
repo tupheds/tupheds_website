@@ -1,5 +1,5 @@
 ---
-title: "Vitus Paß defends his Master's Thesis"
+title: "Vitus Past defends his Master's Thesis"
 date: 2026-01-13
 tags: ["news"]
 authors:
