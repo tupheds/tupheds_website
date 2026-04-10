@@ -32,6 +32,7 @@ Short description or bio can go here.
 {{ $email := .Get "email" }}
 {{ $orcid := .Get "orcid" }}
 {{ $github := .Get "github" }}
+{{ $website := .Get "website" }}
 
 <div class="member-card my-4">
 	<article class="flex flex-col items-center text-center max-w-sm sm:max-w-md">
@@ -97,7 +98,7 @@ Short description or bio can go here.
 				</div>
 			{{ end }}
 
-			{{ if or $email (or $orcid $github) }}
+			{{ if or $email (or $orcid (or $github $website)) }}
 				<div
 					class="member-card__meta flex flex-wrap justify-center items-center text-[0.7rem] text-neutral-700 dark:text-neutral-300"
 					style="gap: 0.3rem; margin-top: 0.15rem;"
@@ -105,17 +106,23 @@ Short description or bio can go here.
 					{{ if $email }}
 						<a href="mailto:{{ $email }}" class="hover:underline">Email</a>
 					{{ end }}
-					{{ if and $email (or $orcid $github) }}
+					{{ if and $email (or $orcid (or $github $website)) }}
 						<span class="text-neutral-400">·</span>
 					{{ end }}
 					{{ if $orcid }}
 						<a href="https://orcid.org/{{ $orcid }}" class="hover:underline" target="_blank" rel="noopener">ORCID</a>
 					{{ end }}
-					{{ if and $orcid $github }}
+					{{ if and $orcid (or $github $website) }}
 						<span class="text-neutral-400">·</span>
 					{{ end }}
 					{{ if $github }}
 						<a href="https://github.com/{{ $github }}" class="hover:underline" target="_blank" rel="noopener">GitHub</a>
+					{{ end }}
+					{{ if and $github $website }}
+						<span class="text-neutral-400">·</span>
+					{{ end }}
+					{{ if $website }}
+						<a href="{{ $website }}" class="hover:underline" target="_blank" rel="noopener">Website</a>
 					{{ end }}
 				</div>
 			{{ end }}

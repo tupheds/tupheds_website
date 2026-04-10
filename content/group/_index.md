@@ -45,7 +45,7 @@ Our group brings together physicists and computer scientists and over the years 
         name="Nicole Hartman"
         role="Postdoc"
         avatar="https://github.com/nhartman94.png"
-        github="nhartman94"
+        website="https://nhartman94.github.io"
   >}}
   {{< /member >}}
 
